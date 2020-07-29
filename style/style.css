@@ -1,0 +1,29 @@
+
+main{
+    max-width: 870px;
+}
+.top-players{
+    background-color: #FFFFFF;
+}
+body{
+    background-color: #F3F1FF;;
+}.navbar img{
+width: 40px;
+}
+.navbar-nav  li{
+    padding-left:10px;
+    padding-right:10px;
+  }
+  .player img{
+      width: 56px;
+  }
+.inside-navbar{
+    position: absolute;
+width: 1440px;
+height: 94px;
+left: 0px;
+top: 0px;
+}
+
+  
+ 
