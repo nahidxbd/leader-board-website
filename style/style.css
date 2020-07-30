@@ -41,15 +41,23 @@ width: 40px;
     
     
 }
-.star{
+.image  >img{
     max-width: 8%;
-    height: auto;
+    height: 8%;
     
 }
-.time{
-    background-color: palevioletred;
-    border-radius: 30px;
+#time{
+    max-width: 25px;
+    height:25px;
 }
-.content-box{
-    padding: 10px;
+
+
+.top-players p{
+    font-weight: bold;
+}
+.blogs span{
+    color:  #562EFF;
+}
+.time-zone{
+    background-color: #FFE4E8;
 }
